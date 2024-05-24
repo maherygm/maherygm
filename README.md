@@ -6,9 +6,8 @@
 
 The main area of expertise is front end development (client side of the web).
 
-HTML, CSS, JS, building small and medium web applications with Vue or React, custom plugins, features, animations, and coding interactive layouts.
+HTML, CSS, JS, building small and medium web applications with  React, custom plugins, features, animations, and coding interactive layouts.
 
-Visit my [Linkedin](https://www.linkedin.com) for more details.
 
 ---
 
@@ -20,13 +19,9 @@ Visit my [Linkedin](https://www.linkedin.com) for more details.
 
 ### Frameworks and Libraries
 
-| ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node](https://img.icons8.com/color/48/000000/nodejs.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![Express.js](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000) |
-| --- | --- | --- | --- |
-| React | Node | Spring Boot | Express.js |
-
-| ![SASS](https://img.icons8.com/color/48/000000/sass.png) | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![Tailwind CSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000) |
-| --- | --- | --- |
-| SASS | Bootstrap | Tailwind CSS |
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node](https://img.icons8.com/color/48/000000/nodejs.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![Express.js](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000) | ![SASS](https://img.icons8.com/color/48/000000/sass.png) | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![Tailwind CSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000) |
+| --- | --- | --- | --- | --- | --- | --- |
+| React | Node | Spring Boot | Express.js | SASS | Bootstrap | Tailwind CSS |
 
 ### Tools
 
