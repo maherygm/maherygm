@@ -20,7 +20,7 @@ HTML, CSS, JS, TS, building small and medium web applications with  React, custo
 ### Frameworks and Libraries
 
 | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node](https://img.icons8.com/color/48/000000/nodejs.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![Express.js](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000) | ![SASS](https://img.icons8.com/color/48/000000/sass.png) | ![Tailwind CSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000) |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | React | Node | Spring Boot | Express.js | SASS  | Tailwind CSS |
 
 ### Tools
