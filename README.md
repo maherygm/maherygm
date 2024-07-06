@@ -35,6 +35,7 @@ HTML, CSS, JS, TS, building small and medium web applications with  React, custo
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white&borderRadius=10)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-3B82F6?style=for-the-badge&logo=shadcn-ui&logoColor=white&borderRadius=10)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&borderRadius=10)
+![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=java&logoColor=white&borderRadius=10)
 
 ### Tools
 
@@ -47,7 +48,6 @@ HTML, CSS, JS, TS, building small and medium web applications with  React, custo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=10)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=10)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&borderRadius=10)
-![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=java&logoColor=white&borderRadius=10)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&borderRadius=10)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=10)
 ![Beekeeper](https://img.shields.io/badge/Beekeeper-FFDD00?style=for-the-badge&logo=bee&logoColor=black&borderRadius=10)
@@ -56,7 +56,7 @@ HTML, CSS, JS, TS, building small and medium web applications with  React, custo
 ![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white&borderRadius=10)
 ![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=windows-terminal&logoColor=white&borderRadius=10)
 
-### Design Patterns
+### Outro
 
 - POO (Programmation Orientée Objet)
 - SOLID
